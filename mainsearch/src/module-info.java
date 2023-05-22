@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author thgml
- *
- */
-module mainsearch {
-}
